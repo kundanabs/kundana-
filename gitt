@@ -39,7 +39,7 @@ git clone
 
 git fetch origin 
 git checkout feature-branch 
-git rebase master/origin feature-branch
+git rebase master feature-branch
 git add  
 git push -f origin feature-branch 
 
