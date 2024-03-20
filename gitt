@@ -1,0 +1,11 @@
+git --version
+mkdir 
+cd demo
+git init
+git status
+vi demo.txt
+git add demo.txt
+git commit -m “commiting text file”
+git config --global user.name “ "
+git config –global user.email “ ”
+ 
