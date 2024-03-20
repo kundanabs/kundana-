@@ -1,8 +1,9 @@
-git –version 
+  git –version 
  mkdir demo 
  cd demo  
  git init 
  git status 
+  vi demo.txt
  git add demo.txt 
  git commit -m “commiting text file” 
  git config --global user.name “"
